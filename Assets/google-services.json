@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847635957370",
+    "project_id": "houdini-ac884",
+    "storage_bucket": "houdini-ac884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847635957370:android:568975642212f99a8a5dc3",
+        "android_client_info": {
+          "package_name": "estg.easy.ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847635957370-md464mnbsbre0ga7kfpufmgmqerudsq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGR2OQjiHsGx1hBvg7-LUu3Zk4dnS38mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847635957370-md464mnbsbre0ga7kfpufmgmqerudsq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
